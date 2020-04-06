@@ -1,3 +1,4 @@
+testBranch version
 Research Collaboration with Nathan Janos(System1) 
 
 We introude time series data augmentation using a few operations including summation, finite difference, and average. In the test, we could find out that a CNN performs better in next min CVR(conversion rate) prediction with 1)our training data set 2)2 dimnesion kernel.
